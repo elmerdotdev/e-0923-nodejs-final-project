@@ -4,7 +4,7 @@ Goal: Create a responsive chat application with database storage and login/signu
 
 ## Instructions
 
-1. Choose and design what kind of chat application you would like to build
+1. Choose and design what kind of chat application you would like to build. Use Figma to create your mockups.
 2. Create your MVC backend using NodeJS, Express, and Socket.io
 3. Set up your databse uing MongoDB or Postgres
 4. Build your frontend using React, EJS, or NextJS
