@@ -1,6 +1,6 @@
 # E-0923 NodeJS Final Project - Chat App
 
-Goal: Create a chat application with database storage and login/signup
+Goal: Create a responsive chat application with database storage and login/signup
 
 ## Instructions
 
@@ -18,6 +18,11 @@ Goal: Create a chat application with database storage and login/signup
 - You can decide how many rooms you want for your application
 - Messages per room should be stored in the database
 - User can edit and delete their own message
+
+## Grading
+
+- Functionality (70%)
+- Design and responsiveness (30%)
 
 ## Presentation
 
